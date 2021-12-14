@@ -1,5 +1,6 @@
 <div align="center">
-  <h> Git </h>
+  <h style="bold"> Git 
+  </h>
 </div>
 
 ```sh
