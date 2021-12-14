@@ -1,6 +1,6 @@
 <div align="center">
   # Git
-  ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+  ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png?raw=true "Git")
 </div>
 
 ```sh
