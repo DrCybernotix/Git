@@ -1,5 +1,5 @@
 <div align="center">
-  <h style="bold"> Git 
+  <h font="bold"> Git 
   </h>
 </div>
 
